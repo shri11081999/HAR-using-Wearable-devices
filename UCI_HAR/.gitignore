@@ -1,0 +1,15 @@
+test/
+
+train/
+
+data/
+
+env/
+
+__pycache__/
+
+cache/
+
+.ipynb_checkpoints/
+
+project_work/
