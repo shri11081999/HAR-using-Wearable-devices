@@ -69,7 +69,7 @@ Use the Arduino IDE to upload the arduino_code/har_inference.ino file to your Ar
 
 ## 📸 Result Screenshots
 
-![image](https://github.com/user-attachments/assets/4a6495b0-662e-47c1-9a6d-417d871b55f6)
+![image](https://github.com/user-attachments/assets/44347356-5572-4a1e-991b-cbdad0f6a255)
 ![image](https://github.com/user-attachments/assets/fc152c2e-a86c-47e4-a3fb-281767616e4d)
 
 ## 📊 Results
